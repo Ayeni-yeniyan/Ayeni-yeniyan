@@ -67,11 +67,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
 </div>
-
-<table>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayeni-yeniyan&theme=onedark" alt="Ayeni-yeniyan" /></p>
+<!-- <table>
  <tr>
-  <td><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayeni-yeniyan&show_icons=true&locale=en&theme=onedark" alt="devfolorunso" /></p></td> 
-  <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayeni-yeniyan&theme=onedark" alt="devfolorunso" /></p></td>
+   
+<!-- <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayeni-yeniyan&show_icons=false&locale=en&langs_count=15" alt="Ayeni-yeniyan" /></p></td> -->
+<!--   <td><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayeni-yeniyan&show_icons=true&locale=en&theme=onedark" alt="Ayeni-yeniyan" /></p></td> 
+  <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayeni-yeniyan&theme=onedark" alt="Ayeni-yeniyan" /></p></td>
+   
  </tr>
-</table>
+</table> -->
 

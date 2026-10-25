@@ -10,7 +10,7 @@ I build and ship Flutter apps end to end: architecture and state management, Fir
 
 ## Selected work
 
-**Savrr** (live in Europe and US): Financial wellness app. Open banking integration through Salt Edge, iOS release pipeline with Xcode Cloud and Fastlane, localized release notes. [savrrapp.com](https://savrrapp.com/) 
+**Savrr** (live in Europe and US): Financial wellness app. Open banking integration through Salt Edge, Plugin, iOS release pipeline with Xcode Cloud and Fastlane, localized release notes. [savrrapp.com](https://savrrapp.com/) 
 
 **Ouro / OuroCards** (Syntech): Multi-flavor POS and ticketing system with provider and customer apps. Payment SDK integration with 3DS and Apple Pay, custom-painted seat maps (grid and curved), ticket scanning, Arabic localization. [ourocards.com](https://ourocards.com/) 
 

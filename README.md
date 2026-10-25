@@ -22,11 +22,11 @@ I build and ship Flutter apps end to end: architecture and state management, Fir
 
 ## Stack
 
-- **Mobile:** Dart, Flutter, Swift, Riverpod, MVVM, Freezed, CustomPainter, BLE, multi-flavor builds
+- **Mobile:** Dart, Flutter, Swift, Riverpod, Bloc, Getx, Provider, MVVM, Clean Architecture, Freezed, CustomPainter, BLE, multi-flavor builds
 - **Backend and data:** Firebase (Realtime Database, Firestore, Auth, security rules), Supabase, PostgreSQL
-- **Integrations:** Payment SDKs and Apple Pay, open banking, Google Sign-In
+- **Integrations:** Payment SDKs and Apple Pay, open banking, Google Sign-In, SSO
 - **Release and tooling:** Xcode Cloud, Fastlane, Android Studio, Xcode, Git, GitHub
-- **Exploring:** Solidity and smart contract development, Contributing to open sourch projects
+- **Exploring:** Solidity and smart contract development, Contributing to open source projects
 
 ## Work with me
 
